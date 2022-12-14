@@ -1,0 +1,7 @@
+{
+  "name": "Beach-Masters",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
